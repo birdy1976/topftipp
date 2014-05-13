@@ -1,51 +1,60 @@
-/////
-"THE PIZZA-WARE LICENSE" (Revision 42):
-<m@b76.ch> wrote this file. As long as you retain this notice you can
-do whatever you want with this stuff. If we meet some day, and you think
-this stuff is worth it, you can buy me a pizza in return. Martin Vögeli
-/////
-
 // asciidoc -a data-uri -a icons -a toc -a max-width=55em topftipp.txt
 
 Topftipp
 ========
 
-Fladenbrot aus der Pfanne
--------------------------
-image::img/fladenbrot.jpg[]
+Apfel-Fenchel-Salat
+-------------------
+image::img/fenchel.jpg[]
 
 [grid="rows"]
 |=======================
-| 1 Prise | 1 Prise | Salz           ||
-| ½ TL    | 2 TL    | Backpulver     ||
-| 90 g    | 360 g   | Mehl           | in Schüssel gut mischen |
-| 90 g    | 360 g   | Joghurt        | gut umrühren, Teig kneten, acht Fladen bilden (2 cm dick) |
-| ¼ EL    | 1 EL    | Öl oder Butter | in Pfanne erhitzen, Fladen um Fladen auf mittlerer Stufe hellbraun braten |
+| 1 EL    | 4 EL    | Zitronensaft   |
+| ½ dl    | 2 dl    | Olivenöl       |
+| ½ EL    | 2 EL    | Joghurt        |
+| ¼ TL    | ½ TL    | Currypulver    | in Schüssel gut mischen
+|         |         | Salz           |
+|         |         | Pfeffer        | Sauce abschmecken
+| ¼ EL    | 400 g   | Fenchel        | Knolle raspeln oder schneiden
+| ¼ EL    | 240 g   | Äpfel          | raspeln oder schneiden und gut mischen
 |=======================
 
-TIP: Für einige Minuten bei 200°C in den Ofen, so bleiben sie warm bis alle fertig sind
+TIP: Sauce mit einer Prise Kurkumapulver verfeinern; evtl. auf Äpfel verzichten
 
-TIP: Oliven, Oregano, Zwiebeln etc. dünn schneiden, zugeben und mit dem Fladen braten
+NOTE: http://campus.nzz.ch/special/apfel-fenchel-salat
 
-NOTE: http://chefkoch.de/rezepte/2353571374153496/
+Ayran
+-----
+image::img/ayran.jpg[]
 
-Ananas-Curry aus Sri Lanka
---------------------------
+[grid="rows"]
+|=======================
+| 90 g    | 360 g   | Joghurt        |
+| ½ dl    | 2 dl    | Wasser         | in Schüssel gut mischen
+| ½ EL    | 2 EL    | Salz           | abschmecken 
+|=======================
+
+TIP: Gefüllte Gläser mit frischen Minzblättern schmücken und Ayran kalt servieren
+
+NOTE: https://de.wikipedia.org/wiki/Ayran
+
+Curry mit Ananas
+----------------
 image::img/ananas-curry.jpg[]
 
 [grid="rows"]
 |=======================
-| ¼ EL    | 1 EL    | Öl oder Butter | in Pfanne erhitzen |
-| ¼       | 1       | Knoblauchzehe  | schneiden |
-| ½       | 2       | Chilischoten   | schneiden (evtl. Chilipulver) |
-| ¼       | 1       | Zwiebel        | in Scheiben schneiden, zugeben, hellbraun braten|
-| ¼ Zweig | 1 Zweig | Curryblätter   | zugeben, gut umrühren|
-| 100 g   | 400 g   | Ananas         | schälen, in Würfel schneiden, zugeben |
-|         |         | Chilipulver    ||
-|         |         | Salz           ||
-| evtl.   | evtl.   | Currypulver    | zugeben, Kochzeit 10 min|
-|         |         | Kokosmilch     | zugeben |
-|         |         | Zucker         | verfeinern |
+| ¼ EL    | 1 EL    | Öl oder Butter | in Pfanne erhitzen
+| ¼       | 1       | Knoblauchzehe  | schneiden
+| ½       | 2       | Chilischoten   | schneiden (evtl. Chilipulver)
+| ¼       | 1       | Zwiebel        | in Scheiben schneiden, zugeben, hellbraun braten
+| ¼ Zweig | 1 Zweig | Curryblätter   | zugeben, gut umrühren
+| 100 g   | 400 g   | Ananas         | schälen, in Würfel schneiden, zugeben
+|         |         | Chilipulver    |
+|         |         | Salz           |
+| evtl.   | evtl.   | Currypulver    | zugeben, Kochzeit 10 min
+|         |         | Kokosmilch     | zugeben
+|         |         | Zucker         | verfeinern
 |=======================
 
 TIP: Falls Ananas aus der Dose verwendet wird, der Sauce etwas vom Ananassaft zugeben
@@ -53,3 +62,22 @@ TIP: Falls Ananas aus der Dose verwendet wird, der Sauce etwas vom Ananassaft zu
 TIP: Anstelle von Ananas können auch Linsen, Bohnen, Gemüse etc. verwendet werden
 
 NOTE: http://chefkoch.de/rezepte/2218661355252316/
+
+Fladenbrot aus der Pfanne
+-------------------------
+image::img/fladenbrot.jpg[]
+
+[grid="rows"]
+|=======================
+| 1 Prise | 1 Prise | Salz           |
+| ½ TL    | 2 TL    | Backpulver     |
+| 90 g    | 360 g   | Mehl           | in Schüssel gut mischen
+| 90 g    | 360 g   | Joghurt        | gut umrühren, Teig kneten, acht Fladen bilden (2 cm dick)
+| ¼ EL    | 1 EL    | Öl oder Butter | in Pfanne erhitzen, Fladen um Fladen auf mittlerer Stufe hellbraun braten
+|=======================
+
+TIP: Für einige Minuten bei 200°C in den Ofen, so bleiben sie warm bis alle fertig sind
+
+TIP: Oliven, Oregano, Zwiebeln etc. dünn schneiden, zugeben und mit dem Fladen braten
+
+NOTE: http://chefkoch.de/rezepte/2353571374153496/
