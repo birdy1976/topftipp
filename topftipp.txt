@@ -81,3 +81,20 @@ TIP: Für einige Minuten bei 200°C in den Ofen, so bleiben sie warm bis alle fe
 TIP: Oliven, Oregano, Zwiebeln etc. dünn schneiden, zugeben und mit dem Fladen braten
 
 NOTE: http://chefkoch.de/rezepte/2353571374153496/
+
+Tomatensauce
+------------
+image::img/tomaten.jpg[]
+
+[grid="rows"]
+|=======================
+| ¼ EL    | 1 EL    | Olivenöl       | in Pfanne erhitzen
+| ¼       | 1       | Knoblauchzehe  | schneiden oder zerdrücken
+| 100 g   | 400 g   | Tomaten        | schälen, Kochzeit 10 min
+|         |         | Kapern         | 
+|         |         | Petersilien    | zugeben
+|=======================
+
+TIP: Am Schluss einen Schuss Rotwein und einen Teelöffel Zucker zugeben
+
+NOTE: So gesehen im Film _3 Days to Kill_ (2014) an der Stelle 01:18:13
