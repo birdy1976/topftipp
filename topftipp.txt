@@ -98,3 +98,21 @@ image::img/tomaten.jpg[]
 TIP: Am Schluss einen Schuss Rotwein und einen Teelöffel Zucker zugeben
 
 NOTE: So gesehen im Film _3 Days to Kill_ (2014) an der Stelle 01:18:13
+
+Zwetschgenwähe mit Zimt
+-----------------------
+image::img/zwetschgen.jpg[]
+
+[grid="rows"]
+|=======================
+|         | 1       | Kuchenteig     | circa 32 cm Ø, in Blech mit 28–30 cm Ø legen
+|         | 1 TL    | Zimt           | Boden einstechen, mit Zimt bestreuen
+|         | 800 g   | Zwetschgen     | entsteinen, Teig mit Schnittflächen nach oben belegen
+|         | 3       | Eier           | in Messbecher geben
+|         |         | Milch          | auf 3 dl auffüllen, verrühren, über Belag giessen
+|         |         |                | 12 min mit Ober- und Unterhitze, dann 12 min mit Umluft backen
+|=======================
+
+TIP: Statt Zwetschgen Aprikosen verwenden, aber den Zimt weglassen
+
+NOTE: http://bettybossi.ch/ (http://tinyurl.com/l7yab9v)
