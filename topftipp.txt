@@ -47,7 +47,7 @@ image::img/ananas-curry.jpg[]
 | ¼ EL    | 1 EL    | Öl oder Butter | in Pfanne erhitzen
 | ¼       | 1       | Knoblauchzehe  | schneiden
 | ½       | 2       | Chilischoten   | schneiden (evtl. Chilipulver)
-| ¼       | 1       | Zwiebel        | in Scheiben schneiden, zugeben, hellbraun braten
+| ¼       | 1       | Zwiebel        | schneiden, zugeben, hellbraun braten
 | ¼ Zweig | 1 Zweig | Curryblätter   | zugeben, gut umrühren
 | 100 g   | 400 g   | Ananas         | schälen, in Würfel schneiden, zugeben
 |         |         | Chilipulver    |
@@ -81,6 +81,84 @@ TIP: Für einige Minuten bei 200°C in den Ofen, so bleiben sie warm bis alle fe
 TIP: Oliven, Oregano, Zwiebeln etc. dünn schneiden, zugeben und mit dem Fladen braten
 
 NOTE: http://chefkoch.de/rezepte/2353571374153496/
+
+Kürbiscrème-Suppe
+-------------------
+image::img/kuerbis.jpg[]
+
+[grid="rows"]
+|=======================
+|         | 1 EL    | Öl oder Butter | in Pfanne erhitzen
+|         | 1 kg    | Kürbis         | entkernen, klein schneiden, zugeben
+|         | evtl. 1 | Kartoffel      | schälen, klein schneiden, zugeben
+|         | 8 dl    | Gemüsebouillon | zugeben
+|         | 200 g   | Schlagrahm     | zugeben, Kochzeit 25 min
+|         |         | Peffer         | zugeben
+|         |         |                | pürieren
+|=======================
+
+TIP: Geschmack verfeinern mit frischen Kräutern oder Kürbiskernen
+
+NOTE: http://lecker.de/ (http://tinyurl.com/k3u53qn)
+
+Piadina mit Füllung
+-------------------
+image::img/piadina.jpg[]
+
+[grid="rows"]
+|=======================
+|         | 1 EL    | Öl oder Butter | in Pfanne erhitzen
+|         | 1       | Zwiebel        | schneiden, zugeben, hellbraun braten
+|         | 1       | Peperoni       | schneiden, zugeben
+|         | 3       | Tomaten        | schneiden, zugeben
+|         |         | Peffer         | zugeben, Kochzeit 10 min
+|         | 4       | Piadinas       | bei 200°C in den Ofen
+|=======================
+
+TIP: Füllung je nach Geschmack verfeinern mit Erdnüssen, Oliven, Rucola etc.
+
+NOTE: Eigenes Rezept
+
+Pizza mit Gemüse
+----------------
+image::img/pizza.jpg[]
+
+[grid="rows"]
+|=======================
+|         | 1       | Pizzateig      | circa 32 cm Ø, in Blech mit 28–30 cm Ø legen
+|         | 1       | Zwiebel        | schneiden, auf Teig verteilen
+|         | 4       | Champignons    | schneiden, auf Teig verteilen
+|         | 1       | Mozzarella     | schneiden, auf Teig verteilen
+|         |         | Peffer         | auf Teig verstreuen
+|         |         | Oregano        | auf Teig verstreuen
+|         | 2       | Tomaten        | schneiden, auf Teig verteilen
+|         | 1       | Peperoni       | schneiden, auf Teig verteilen
+|         |         |                | 12 min mit Ober- und Unterhitze, dann 12 min mit Umluft backen
+|=======================
+
+TIP: Belag je nach Geschmack verfeinern mit Broccoli, Oliven, Rucola, Spiegelei etc.
+
+NOTE: Eigenes Rezept
+
+Rührei mit Champignons
+----------------------
+image::img/ei.jpg[]
+
+[grid="rows"]
+|=======================
+|         | 4 EL    | Milch          | in Schüssel geben
+|         |         | Peffer         | zugeben
+|         |         | Schnittlauch   | zugeben
+|         | 4       | Eier           | zugeben, schlagen
+|         | 4       | Champignons    | schneiden, zugeben
+|         | 100 g   | Feta           | schneiden, zugeben
+|         | 1 EL    | Öl oder Butter | in Pfanne erhitzen, Schüsselinhalt zugeben
+|         |         |                | 3 mit braten (soll nicht braun werden)
+|=======================
+
+TIP: Champignons und / oder Feta zB durch Tomaten oder Peperoni ersetzen
+
+NOTE: Eigenes Rezept
 
 Tomatensauce
 ------------
